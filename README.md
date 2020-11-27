@@ -1,2 +1,6 @@
+---
+description: Welcome
+---
+
 # Initial page
 
